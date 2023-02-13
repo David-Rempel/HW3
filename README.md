@@ -27,7 +27,9 @@ Consider the following system of equations:
 
 (b) Solve for Ax = b by using the matrix inverse of A (You can use software to get the inverse matrix but be sure to cite your source).
 
-Part 3. Define matrix B = bb<sup>T</sup>, where b ∈ R<sup>d×1</sup> is a column vector that is not all-zero. 
+Part 3. 
+
+Define matrix B = bb<sup>T</sup>, where b ∈ R<sup>d×1</sup> is a column vector that is not all-zero. 
 
 Show that for any vector x ∈ R<sup>d×1</sup>, x<sup>T</sup> Bx ≥ 0.
 
