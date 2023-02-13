@@ -38,5 +38,5 @@ Show that for any vector x ∈ R<sup>d×1</sup>, x<sup>T</sup> Bx ≥ 0.
 
 Part 4 (Bonus 5 points)
 
-Create a branch in your Github Repository (HW3) and create both a .tex file and .pdf file for your solutions ([I suggest using overleaf.com](https://www.overleaf.com/). When you have completed your homework, create a pull request to the main branch and assign me as the reviewer. Be sure to include the problem statement in your solutions.
+Create a branch in your Github Repository (HW3) and create both a .tex file and .pdf file for your solutions ([I suggest using overleaf.com](https://www.overleaf.com/)). When you have completed your homework, create a pull request to the main branch and assign me as the reviewer. Be sure to include the problem statement in your solutions.
 
