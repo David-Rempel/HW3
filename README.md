@@ -1,6 +1,6 @@
-# HW3
+# HW3 Due 2/17/2023
 
-Part 1. 
+Part 1. (5 points)
 
 The weatherperson has predicted rain tomorrow, but we don’t
 trust her. Plus we have heard of this new thing called probability and we want to test it out. In recent years, it
@@ -13,7 +13,7 @@ or not the weatherperson forecasts rain (F ∈ {0, 1}). Start by listing all the
 – e.g. P(F=0|R=0), P(F=1|R=0),P(F=0|R=1), P(F=1|R=1), P(R=1), P(R=0). Then consider how to get
 P(R=1 | F=1) – the probability that it will rain given that the weatherperson forecasted rain.]
 
-Part 2. 
+Part 2. (5 points)
 
 Consider the following system of equations:
 
@@ -27,7 +27,7 @@ Consider the following system of equations:
 
 (b) Solve for Ax = b by using the matrix inverse of A (You can use software to get the inverse matrix but be sure to cite your source).
 
-Part 3. 
+Part 3.(5 points)
 
 Define matrix B = bb<sup>T</sup>, where b ∈ R<sup>d×1</sup> is a column vector that is not all-zero. 
 
@@ -35,3 +35,8 @@ Show that for any vector x ∈ R<sup>d×1</sup>, x<sup>T</sup> Bx ≥ 0.
 
 [Hint: Try to get x<sup>T</sup> Bx to look like the product of two identical scalars. Note that b
 <sup>T</sup> x = (x<sup>T</sup>b)<sup>T</sup>, that a<sup>T</sup> = a for scalar value a, and that matrix multiplication is associative.]
+
+Part 4 (Bonus 5 points)
+
+Create a branch in your Github Repository (HW3) and create both a .tex file and .pdf file for your solutions ([I suggest using overleaf.com](https://www.overleaf.com/). When you have completed your homework, create a pull request to the main branch and assign me as the reviewer. Be sure to include the problem statement in your solutions.
+
