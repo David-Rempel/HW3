@@ -26,3 +26,10 @@ Consider the following system of equations:
 (a) Write the system as a matrix equation of the form Ax = b.
 
 (b) Solve for Ax = b by using the matrix inverse of A (You can use software to get the inverse matrix but be sure to cite your source).
+
+Part 3. Define matrix B = bb<sup>T</sup>, where b ∈ R<sup>d×1</sup> is a column vector that is not all-zero. 
+
+Show that for any vector x ∈ R<sup>d×1</sup>, x<sup>T</sup> Bx ≥ 0.
+
+[Hint: Try to get x<sup>T</sup> Bx to look like the product of two identical scalars. Note that b
+<sup>T</sup> x = (x<sup>T</sup>b)<sup>T</sup>, that a<sup>T</sup> = a for scalar value a, and that matrix multiplication is associative.]
